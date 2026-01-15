@@ -1,3 +1,9 @@
+Intern Details
+Name: Abhivardhan Reddy 
+Internship: AI & ML Internship
+Task Number: Task 1
+Task Title: Understanding Dataset & Data Types
+
 Initial Task – Exploring Dataset Types and Their Structures
 
 AI & ML Internship Opportunity
@@ -39,4 +45,5 @@ The Titanic Dataset has one row for each passenger and one column for each passe
 - The Titanic dataset contains both Numeric and Categorical features.
 - The Titanic dataset has missing values in Age, Cabin and Embarked columns.
 - Target variable is imbalanced.
+
 - Dataset is suitable for machine learning after preprocessing.
